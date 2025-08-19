@@ -1,0 +1,72 @@
+# HR Attrition Analysis – Power BI Project
+
+## 📌 Project Overview
+This Power BI dashboard analyzes HR data to identify patterns and key factors contributing to employee attrition.  
+It covers insights such as attrition rate by department, job role, salary, age group, education field, and more.
+
+---
+
+## 🎯 Key Insights
+- Attrition % by Department & Gender
+- Average Monthly Income by Job Role
+- Attrition trend based on Age Groups
+- Impact of Business Travel on Attrition
+- Education Field vs Attrition
+- Job & Environment Satisfaction Levels
+
+---
+
+## 📊 Dashboard Preview
+
+### 1
+(<Screenshots/Screenshot (7).png>)
+
+### 2 
+(<Screenshots/Screenshot (8).png>)
+
+### 3 
+(<Screenshots/Screenshot (10).png>)
+
+## 4
+(<Screenshots/Screenshot (9).png>)
+
+---
+
+## 🛠 Tools Used
+- **Power BI Desktop**
+- **Microsoft Excel** (Data Cleaning)
+- **DAX** (Calculated Columns & Measures)
+- **Data Visualization Techniques**
+
+---
+
+## 📂 Dataset
+The dataset used for this project contains HR employee data, including:
+- Employee demographics
+- Job details
+- Work environment
+- Satisfaction scores
+- Attrition status
+
+---
+
+# Files
+
+- HR_sales_dashboard.pbix --main dashboard
+- Data set.csv  -- sample dataset
+- Screenshots/ --key visuals
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Explore the dashboard interactively.
+
+---
+
+## 📌 Author
+**[shubhangi Raut]**  
+
+Thank YOu!
+
+---
+
